@@ -1,0 +1,26 @@
+Departamento de Informática
+I.E.S. “El Rincón”
+Las Palmas de Gran Canaria
+19 de Marzo de 2018
+EXAMEN DE SEGUNDA EVALUACIÓN
+PROGRAMACIÓN
+
+Objetivo: Leer el fichero adjunto puntosEquipo.txt.
+
+El número junto al equipo representa los puntos que ha obtenido el equipo en una jornada determinada.
+
+Mostrar el nombre del equipo y sus puntos acumulados.
+
+Se debe intentar  mostrar la lista ordenada por los puntos obtenidos , de mayor a menor.
+
+Por ejemplo
+
+REAL MADRID                : 15
+BARCELONA                   : 12
+ATLETICO DE MADRID :  9
+UD LAS PALMAS            :   7
+
+
+Hacer versiones cada media hora con git (commit)
+
+Suerte

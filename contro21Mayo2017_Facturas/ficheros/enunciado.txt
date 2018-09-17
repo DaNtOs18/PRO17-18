@@ -1,0 +1,73 @@
+I.E.S. El Rincón
+Departamento de Informática
+
+MODULO DE PROGRAMACION
+ULTIMO CONTROL PREVIO EXAMEN
+
+21 de Mayo de 2018
+
+
+
+
+
+ENUNCIADO DEL EJERCICIO:  Se adjunta un fichero , “jugadores.obj”.
+
+El fichero contiene en formato binario los jugadores TRES equipos de fútbol: Real Madrid, Barcelona y Sevilla.
+
+Cada registro del fichero es un objeto de la clase Jugador.
+
+Se adjunta la clase Jugador y la clase Persona, de la que extiende la primera.
+
+Se pide :
+
+Un listado con la salida  siguiente:
+
+			 ESTADISTICA DE EQUIPOS ESPAÑOLES
+
+ 
+EQUIPO: 		REAL MADRID
+	BALE      	1998-08-15  	19	15
+	BALE2      	1996-08-15  	21	1
+	BALE4      	1996-08-15  	21	5
+	BALE8      	1998-08-15  	19	5
+	BALE2      	1996-08-15  	21	15
+	BALE9      	1996-08-15  	21	1
+	BALE6      	1998-08-15  	19	7
+	BALE7      	1996-08-15  	21	5
+
+TOTAL GOLES EQUIPO : 				54
+EDAD MEDIA EQUIPO : 			20
+
+
+EQUIPO: 		BARCELONA
+	INIESTA      	   1979-08-15  	38	7
+	INIESTA1      	1969-08-15  	48	3
+	INIESTA2      	1999-08-15  	18	0
+	INIESTA5      	1999-08-15  	18	4
+	INIESTA       	1999-08-15  	18	10
+	INIESTA9      	1999-08-15  	18	2
+	INIESTA3      	1999-08-15  	18	4
+
+TOTAL GOLES EQUIPO : 				30
+EDAD MEDIA EQUIPO : 			25
+
+
+EQUIPO: 		SEVILLA
+	JOAQUIN3      	1998-08-15  	19	5
+	JOAQUIN5      	1996-08-15  	21	2
+	JOAQUIN7      	1996-08-15  	21	6
+	JOAQUIN3      	1998-08-15  	19	5
+	JOAQUIN2      	1999-08-15  	18	0
+	JOAQUIN5      	1996-08-15  	21	1
+
+TOTAL GOLES EQUIPO : 				19
+EDAD MEDIA EQUIPO : 			19
+
+
+TOTAL GOLES LIGA : 103
+EDAD MEDIA LIGA : 			21
+
+
+
+
+Suerte
